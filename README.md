@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+## Introduction
+
+Simple movie-DB application using ReactJS. 
+
+It also use Formik and Yup, and the api themoviedb and Firebase.
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
